@@ -1,0 +1,21 @@
+{
+  "name": "ui-example",
+  "version": "1.0.0",
+  "description": "An example usage of the ui-example library for creating a UI component.",
+  "author": "Abhay Hitendra Dusane <abhayhd_Chrome@skncoe365.onmicrosoft.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js",
+    "build": "webpack"
+  },
+  "dependencies": {
+    "ui-core": "^1.0.0",
+    "ui-example": "^1.0.0"
+  },
+  "devDependencies": {
+    "webpack": "^5.90.3",
+    "webpack-cli": "^5.1.4"
+  }
+}
